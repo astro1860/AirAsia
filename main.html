@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+
+
+<head>
+	<meta charset = "utf-8">
+	<title> Mini Project</title>
+	<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+
+<!-- jQuery library -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+
+<!-- Latest compiled JavaScript -->
+	<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+	<script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
+
+<style> /* set the CSS */
+
+body { font: 12px Arial;}
+
+
+path { 
+	stroke: steelblue;
+	stroke-width: 2;
+	fill: none;
+}
+
+.axis path,
+.axis line {
+	fill: none;
+	stroke: grey;
+	stroke-width: 1;
+	shape-rendering: crispEdges;
+}
+.grid .tick {
+stroke: lightgrey; opacity: 0.7;
+}
+.grid path {
+stroke-width: 0; }
+
+div.tooltip {
+  position: absolute;	
+  text-align: center;	
+  width: 80px;	
+  height: 45px;		
+  padding: 2px;	
+  font: 12px sans-serif;	
+  background: lightsteelblue;	
+  border: 0px;					
+  border-radius: 8px;	
+}
+
+#mapid { height: 400px; }
+
+div.classWithPad { margin:10px; padding:10px;  border-radius:10px;}
+/*div.info {
+  width: 600px;	
+  height: 270px;	
+}*/
+
+</style>
+
+</head>
+
+
+<body>
+
+<div class="container-fluid">
+  <h2>Air Pollution in Asia's Major Cities</h1>
+  <h4>View the latest 24-hour pm2.5 concentration and decide where to go</h4>
+  <h6>Data source: <a href="http://www.stateair.net">http://www.stateair.net</a>	<a href="https://airnow.gov">https://airnow.gov</a>  </h6>
+  <h6>Designed by Hangxin Lu</h6>
+</div>
+<!-- <div class="jumbotron">
+  <h2>Air Pollution in Asia Major Cities</h1>
+  <p>View the latest 24-hour pm2.5 concentration(in ug/m3) and decide where to go</p>
+  <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a></p>
+</div> -->
+
+<hr>
+<div class="btn-group" role="group" aria-label="...">
+	<button type="button" class="btn btn-default" id="haoni">Haoni</button>
+	<button type="button" class="btn btn-default" id="HoChiMinhCity">HoChiMinhCity</button>
+	<button type="button" class="btn btn-default" id="jcentral">Jakarta Central</button>
+	<button type="button" class="btn btn-default" id="jsouth">Jakarta South</button>
+	<button type="button" class="btn btn-default" id="shenyang">Shenyang</button>
+	<button type="button" class="btn btn-default" id="Beijing">Beijing</button>
+	<button type="button" class="btn btn-default" id="Shanghai">Shanghai</button>
+	<button type="button" class="btn btn-default" id="Chengdu">Chengdu</button>
+	<button type="button" class="btn btn-default" id="Guangzhou">Guangzhou</button>
+	<button type="button" class="btn btn-default" id="Ulaanbaatar">Ulaanbaatar</button>
+	<button type="button" class="btn btn-default" id="dhaka">dhaka</button>
+	<button type="button" class="btn btn-default" id="NewDelhi">NewDelhi</button>
+</div>
+
+
+<hr>
+
+<div class="row">
+  <div class="col-sm-6" id="mapid"><div class="classWithPad"></div></div>
+  <div class="col-sm-6" id="info"><div class="classWithPad"></div></div>
+</div>
+
+
+<script>
+	var mymap = L.map('mapid').setView([22.2855200, 114.1576900], 3);
+
+	L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
+    attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
+    maxZoom: 18,
+    id: 'hangxin.0mmhja1m',
+    accessToken: 'pk.eyJ1IjoiaGFuZ3hpbiIsImEiOiJjaWhzMDY2NmwwMDJnd2hrcHlhdmNrYXJwIn0.lvcRGHAaG_E6jlXZ0li70A'
+}).addTo(mymap);
+
+
+</script>
+
+<!-- load the d3.js library -->	
+<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+
+<script src="js/main.js"></script>
+</body>
+
