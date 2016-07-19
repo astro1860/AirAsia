@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"> <!-- this line cannot be neglected -->
+<channel>
+	<title>Jakarta Central</title>
+
+	<item>
+		<title>2016-06-27 16:00:00</title>
+		<description>2016-06-27 16:00:00; PM2.5 - Principal; 36.0; 139; Unhealthy for Sensitive Groups</description>
+		<Param>PM2.5 - Principal</Param>
+		<Conc>36.0</Conc>
+		<AQI>139</AQI>
+		<Desc>Unhealthy for Sensitive Groups</Desc>
+		<ReadingDateTime>2016-06-27 16:00:00</ReadingDateTime>
+	</item>
+
+	<item>
+		<title>2016-06-27 17:00:00</title>
+		<description>2016-06-27 17:00:00; PM2.5 - Principal; 41.0; 139; Unhealthy for Sensitive Groups</description>
+		<Param>PM2.5 - Principal</Param>
+		<Conc>41.0</Conc>
+		<AQI>139</AQI>
+		<Desc>Unhealthy for Sensitive Groups</Desc>
+		<ReadingDateTime>2016-06-27 17:00:00</ReadingDateTime>
+	</item>
+
+	<item>
+	<title>2016-06-27 18:00:00</title>
+	<description>2016-06-27 18:00:00; PM2.5 - Principal; 38.0; 138; Unhealthy for Sensitive Groups</description>
+	<Param>PM2.5 - Principal</Param>
+	<Conc>38.0</Conc>
+	<AQI>138</AQI>
+	<Desc>Unhealthy for Sensitive Groups</Desc>
+	<ReadingDateTime>2016-06-27 18:00:00</ReadingDateTime>
+	</item>
+
+	<item>
+	<title>2016-06-27 19:00:00</title>
+	<description>2016-06-27 19:00:00; PM2.5 - Principal; 38.0; 139; Unhealthy for Sensitive Groups</description>
+	<Param>PM2.5 - Principal</Param>
+	<Conc>38.0</Conc>
+	<AQI>139</AQI>
+	<Desc>Unhealthy for Sensitive Groups</Desc>
+	<ReadingDateTime>2016-06-27 19:00:00</ReadingDateTime>
+	</item>
+
+	<item>
+	<title>2016-06-27 20:00:00</title>
+	<description>2016-06-27 20:00:00; PM2.5 - Principal; 54.0; 141; Unhealthy for Sensitive Groups</description>
+	<Param>PM2.5 - Principal</Param>
+	<Conc>54.0</Conc>
+	<AQI>141</AQI>
+	<Desc>Unhealthy for Sensitive Groups</Desc>
+	<ReadingDateTime>2016-06-27 20:00:00</ReadingDateTime>
+	</item>
+
+	<item>
+	<title>2016-06-27 21:00:00</title>
+	<description>2016-06-27 21:00:00; PM2.5 - Principal; 60.0; 146; Unhealthy for Sensitive Groups</description>
+	<Param>PM2.5 - Principal</Param>
+	<Conc>60.0</Conc>
+	<AQI>146</AQI>
+	<Desc>Unhealthy for Sensitive Groups</Desc>
+	<ReadingDateTime>2016-06-27 21:00:00</ReadingDateTime>
+	</item>
+	<item>
+	<title>2016-06-27 22:00:00</title>
+	<description>2016-06-27 22:00:00; PM2.5 - Principal; 77.0; 151; Unhealthy</description>
+	<Param>PM2.5 - Principal</Param>
+	<Conc>77.0</Conc>
+	<AQI>151</AQI>
+	<Desc>Unhealthy</Desc>
+	<ReadingDateTime>2016-06-27 22:00:00</ReadingDateTime>
+	</item>
+	<item>
+	<title>2016-06-27 23:00:00</title>
+	<description>2016-06-27 23:00:00; PM2.5 - Principal; 47.0; 153; Unhealthy</description>
+	<Param>PM2.5 - Principal</Param>
+	<Conc>47.0</Conc>
+	<AQI>153</AQI>
+	<Desc>Unhealthy</Desc>
+	<ReadingDateTime>2016-06-27 23:00:00</ReadingDateTime>
+	</item>
+	<item>
+	<title>2016-06-28 00:00:00</title>
+	<description>2016-06-28 00:00:00; PM2.5 - Principal; 50.0; 154; Unhealthy</description>
+	<Param>PM2.5 - Principal</Param>
+	<Conc>50.0</Conc>
+	<AQI>154</AQI>
+	<Desc>Unhealthy</Desc>
+	<ReadingDateTime>2016-06-28 00:00:00</ReadingDateTime>
+	</item>
+	<item>
+	<title>2016-06-28 01:00:00</title>
+	<description>2016-06-28 01:00:00; PM2.5 - Principal; 97.0; 154; Unhealthy</description>
+	<Param>PM2.5 - Principal</Param>
+	<Conc>97.0</Conc>
+	<AQI>154</AQI>
+	<Desc>Unhealthy</Desc>
+	<ReadingDateTime>2016-06-28 01:00:00</ReadingDateTime>
+	</item>
+	<item>
+	<title>2016-06-28 02:00:00</title>
+	<description>2016-06-28 02:00:00; PM2.5 - Principal; 109.0; 153; Unhealthy</description>
+	<Param>PM2.5 - Principal</Param>
+	<Conc>109.0</Conc>
+	<AQI>153</AQI>
+	<Desc>Unhealthy</Desc>
+	<ReadingDateTime>2016-06-28 02:00:00</ReadingDateTime>
+	</item>
+	<item>
+	<title>2016-06-28 03:00:00</title>
+	<description>2016-06-28 03:00:00; PM2.5 - Principal; 85.0; 152; Unhealthy</description>
+	<Param>PM2.5 - Principal</Param>
+	<Conc>85.0</Conc>
+	<AQI>152</AQI>
+	<Desc>Unhealthy</Desc>
+	<ReadingDateTime>2016-06-28 03:00:00</ReadingDateTime>
+	</item>
+	<item>
+	<title>2016-06-28 04:00:00</title>
+	<description>2016-06-28 04:00:00; PM2.5 - Principal; 66.0; 152; Unhealthy</description>
+	<Param>PM2.5 - Principal</Param>
+	<Conc>66.0</Conc>
+	<AQI>152</AQI>
+	<Desc>Unhealthy</Desc>
+	<ReadingDateTime>2016-06-28 04:00:00</ReadingDateTime>
+	</item>
+	<item>
+	<title>2016-06-28 05:00:00</title>
+	<description>2016-06-28 05:00:00; PM2.5 - Principal; 70.0; 152; Unhealthy</description>
+	<Param>PM2.5 - Principal</Param>
+	<Conc>70.0</Conc>
+	<AQI>152</AQI>
+	<Desc>Unhealthy</Desc>
+	<ReadingDateTime>2016-06-28 05:00:00</ReadingDateTime>
+	</item>
+	<item>
+	<title>2016-06-28 06:00:00</title>
+	<description>2016-06-28 06:00:00; PM2.5 - Principal; 63.0; 153; Unhealthy</description>
+	<Param>PM2.5 - Principal</Param>
+	<Conc>63.0</Conc>
+	<AQI>153</AQI>
+	<Desc>Unhealthy</Desc>
+	<ReadingDateTime>2016-06-28 06:00:00</ReadingDateTime>
+	</item>
+	<item>
+	<title>2016-06-28 07:00:00</title>
+	<description>2016-06-28 07:00:00; PM2.5 - Principal; 60.0; 153; Unhealthy</description>
+	<Param>PM2.5 - Principal</Param>
+	<Conc>60.0</Conc>
+	<AQI>153</AQI>
+	<Desc>Unhealthy</Desc>
+	<ReadingDateTime>2016-06-28 07:00:00</ReadingDateTime>
+	</item>
+	<item>
+	<title>2016-06-28 08:00:00</title>
+	<description>2016-06-28 08:00:00; PM2.5 - Principal; 67.0; 154; Unhealthy</description>
+	<Param>PM2.5 - Principal</Param>
+	<Conc>67.0</Conc>
+	<AQI>154</AQI>
+	<Desc>Unhealthy</Desc>
+	<ReadingDateTime>2016-06-28 08:00:00</ReadingDateTime>
+	</item>
+	<item>
+	<title>2016-06-28 09:00:00</title>
+	<description>2016-06-28 09:00:00; PM2.5 - Principal; 76.0; 154; Unhealthy</description>
+	<Param>PM2.5 - Principal</Param>
+	<Conc>76.0</Conc>
+	<AQI>154</AQI>
+	<Desc>Unhealthy</Desc>
+	<ReadingDateTime>2016-06-28 09:00:00</ReadingDateTime>
+	</item>
+	<item>
+	<title>2016-06-28 10:00:00</title>
+	<description>2016-06-28 10:00:00; PM2.5 - Principal; 72.0; 154; Unhealthy</description>
+	<Param>PM2.5 - Principal</Param>
+	<Conc>72.0</Conc>
+	<AQI>154</AQI>
+	<Desc>Unhealthy</Desc>
+	<ReadingDateTime>2016-06-28 10:00:00</ReadingDateTime>
+	</item>
+	<item>
+	<title>2016-06-28 11:00:00</title>
+	<description>2016-06-28 11:00:00; PM2.5 - Principal; 69.0; 159; Unhealthy</description>
+	<Param>PM2.5 - Principal</Param>
+	<Conc>69.0</Conc>
+	<AQI>159</AQI>
+	<Desc>Unhealthy</Desc>
+	<ReadingDateTime>2016-06-28 11:00:00</ReadingDateTime>
+	</item>
+	<item>
+	<title>2016-06-28 12:00:00</title>
+	<description>2016-06-28 12:00:00; PM2.5 - Principal; 36.0; 144; Unhealthy for Sensitive Groups</description>
+	<Param>PM2.5 - Principal</Param>
+	<Conc>36.0</Conc>
+	<AQI>144</AQI>
+	<Desc>Unhealthy for Sensitive Groups</Desc>
+	<ReadingDateTime>2016-06-28 12:00:00</ReadingDateTime>
+	</item>
+	<item>
+	<title>2016-06-28 13:00:00</title>
+	<description>2016-06-28 13:00:00; PM2.5 - Principal; 22.0; 106; Unhealthy for Sensitive Groups</description>
+	<Param>PM2.5 - Principal</Param>
+	<Conc>22.0</Conc>
+	<AQI>106</AQI>
+	<Desc>Unhealthy for Sensitive Groups</Desc>
+	<ReadingDateTime>2016-06-28 13:00:00</ReadingDateTime>
+	</item>
+
+	<item>
+	<title>2016-06-28 14:00:00</title>
+	<description>2016-06-28 14:00:00; PM2.5 - Principal; 19.0; 85; Moderate</description>
+	<Param>PM2.5 - Principal</Param>
+	<Conc>19.0</Conc>
+	<AQI>85</AQI>
+	<Desc>Moderate</Desc>
+	<ReadingDateTime>2016-06-28 14:00:00</ReadingDateTime>
+	</item>
+
+	<item>
+	<title>2016-06-28 15:00:00</title>
+	<description>2016-06-28 15:00:00; PM2.5 - Principal; 25.0; 81; Moderate</description>
+	<Param>PM2.5 - Principal</Param>
+	<Conc>25.0</Conc>
+	<AQI>81</AQI>
+	<Desc>Moderate</Desc>
+	<ReadingDateTime>2016-06-28 15:00:00</ReadingDateTime>
+	</item>
+
+</channel>
+</rss>

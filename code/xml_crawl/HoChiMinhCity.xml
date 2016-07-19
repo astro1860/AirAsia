@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+<title>Ho Chi Minh City</title>
+<item>
+<title>2016-07-17 23:00:00</title>
+<description>2016-07-17 23:00:00; PM2.5 - Principal; 22.0; 84; Moderate</description>
+<Param>PM2.5 - Principal</Param>
+<Conc>22.0</Conc>
+<AQI>84</AQI>
+<Desc>Moderate</Desc>
+<ReadingDateTime>2016-07-17 23:00:00</ReadingDateTime>
+</item>
+<item>
+<title>2016-07-18 00:00:00</title>
+<description>2016-07-18 00:00:00; PM2.5 - Principal; 37.0; 82; Moderate</description>
+<Param>PM2.5 - Principal</Param>
+<Conc>37.0</Conc>
+<AQI>82</AQI>
+<Desc>Moderate</Desc>
+<ReadingDateTime>2016-07-18 00:00:00</ReadingDateTime>
+</item>
+<item>
+<title>2016-07-18 01:00:00</title>
+<description>2016-07-18 01:00:00; PM2.5 - Principal; 18.0; 80; Moderate</description>
+<Param>PM2.5 - Principal</Param>
+<Conc>18.0</Conc>
+<AQI>80</AQI>
+<Desc>Moderate</Desc>
+<ReadingDateTime>2016-07-18 01:00:00</ReadingDateTime>
+</item>
+<item>
+<title>2016-07-18 02:00:00</title>
+<description>2016-07-18 02:00:00; PM2.5 - Principal; 28.0; 79; Moderate</description>
+<Param>PM2.5 - Principal</Param>
+<Conc>28.0</Conc>
+<AQI>79</AQI>
+<Desc>Moderate</Desc>
+<ReadingDateTime>2016-07-18 02:00:00</ReadingDateTime>
+</item>
+<item>
+<title>2016-07-18 03:00:00</title>
+<description>2016-07-18 03:00:00; PM2.5 - Principal; 28.0; 79; Moderate</description>
+<Param>PM2.5 - Principal</Param>
+<Conc>28.0</Conc>
+<AQI>79</AQI>
+<Desc>Moderate</Desc>
+<ReadingDateTime>2016-07-18 03:00:00</ReadingDateTime>
+</item>
+<item>
+<title>2016-07-18 04:00:00</title>
+<description>2016-07-18 04:00:00; PM2.5 - Principal; 44.0; 79; Moderate</description>
+<Param>PM2.5 - Principal</Param>
+<Conc>44.0</Conc>
+<AQI>79</AQI>
+<Desc>Moderate</Desc>
+<ReadingDateTime>2016-07-18 04:00:00</ReadingDateTime>
+</item>
+<item>
+<title>2016-07-18 05:00:00</title>
+<description>2016-07-18 05:00:00; PM2.5 - Principal; 44.0; 78; Moderate</description>
+<Param>PM2.5 - Principal</Param>
+<Conc>44.0</Conc>
+<AQI>78</AQI>
+<Desc>Moderate</Desc>
+<ReadingDateTime>2016-07-18 05:00:00</ReadingDateTime>
+</item>
+<item>
+<title>2016-07-18 06:00:00</title>
+<description>2016-07-18 06:00:00; PM2.5 - Principal; 39.0; 77; Moderate</description>
+<Param>PM2.5 - Principal</Param>
+<Conc>39.0</Conc>
+<AQI>77</AQI>
+<Desc>Moderate</Desc>
+<ReadingDateTime>2016-07-18 06:00:00</ReadingDateTime>
+</item>
+<item>
+<title>2016-07-18 07:00:00</title>
+<description>2016-07-18 07:00:00; PM2.5 - Principal; 38.0; 78; Moderate</description>
+<Param>PM2.5 - Principal</Param>
+<Conc>38.0</Conc>
+<AQI>78</AQI>
+<Desc>Moderate</Desc>
+<ReadingDateTime>2016-07-18 07:00:00</ReadingDateTime>
+</item>
+<item>
+<title>2016-07-18 08:00:00</title>
+<description>2016-07-18 08:00:00; PM2.5 - Principal; 49.0; 77; Moderate</description>
+<Param>PM2.5 - Principal</Param>
+<Conc>49.0</Conc>
+<AQI>77</AQI>
+<Desc>Moderate</Desc>
+<ReadingDateTime>2016-07-18 08:00:00</ReadingDateTime>
+</item>
+<item>
+<title>2016-07-18 09:00:00</title>
+<description>2016-07-18 09:00:00; PM2.5 - Principal; 21.0; 77; Moderate</description>
+<Param>PM2.5 - Principal</Param>
+<Conc>21.0</Conc>
+<AQI>77</AQI>
+<Desc>Moderate</Desc>
+<ReadingDateTime>2016-07-18 09:00:00</ReadingDateTime>
+</item>
+<item>
+<title>2016-07-18 10:00:00</title>
+<description>2016-07-18 10:00:00; PM2.5 - Principal; 17.0; 76; Moderate</description>
+<Param>PM2.5 - Principal</Param>
+<Conc>17.0</Conc>
+<AQI>76</AQI>
+<Desc>Moderate</Desc>
+<ReadingDateTime>2016-07-18 10:00:00</ReadingDateTime>
+</item>
+<item>
+<title>2016-07-18 11:00:00</title>
+<description>2016-07-18 11:00:00; PM2.5 - Principal; 10.0; 76; Moderate</description>
+<Param>PM2.5 - Principal</Param>
+<Conc>10.0</Conc>
+<AQI>76</AQI>
+<Desc>Moderate</Desc>
+<ReadingDateTime>2016-07-18 11:00:00</ReadingDateTime>
+</item>
+<item>
+<title>2016-07-18 12:00:00</title>
+<description>2016-07-18 12:00:00; PM2.5 - Principal; 15.0; 76; Moderate</description>
+<Param>PM2.5 - Principal</Param>
+<Conc>15.0</Conc>
+<AQI>76</AQI>
+<Desc>Moderate</Desc>
+<ReadingDateTime>2016-07-18 12:00:00</ReadingDateTime>
+</item>
+<item>
+<title>2016-07-18 13:00:00</title>
+<description>2016-07-18 13:00:00; PM2.5 - Principal; 14.0; 75; Moderate</description>
+<Param>PM2.5 - Principal</Param>
+<Conc>14.0</Conc>
+<AQI>75</AQI>
+<Desc>Moderate</Desc>
+<ReadingDateTime>2016-07-18 13:00:00</ReadingDateTime>
+</item>
+<item>
+<title>2016-07-18 14:00:00</title>
+<description>2016-07-18 14:00:00; PM2.5 - Principal; 14.0; 75; Moderate</description>
+<Param>PM2.5 - Principal</Param>
+<Conc>14.0</Conc>
+<AQI>75</AQI>
+<Desc>Moderate</Desc>
+<ReadingDateTime>2016-07-18 14:00:00</ReadingDateTime>
+</item>
+<item>
+<title>2016-07-18 15:00:00</title>
+<description>2016-07-18 15:00:00; PM2.5 - Principal; 17.0; 75; Moderate</description>
+<Param>PM2.5 - Principal</Param>
+<Conc>17.0</Conc>
+<AQI>75</AQI>
+<Desc>Moderate</Desc>
+<ReadingDateTime>2016-07-18 15:00:00</ReadingDateTime>
+</item>
+<item>
+<title>2016-07-18 16:00:00</title>
+<description>2016-07-18 16:00:00; PM2.5 - Principal; 15.0; 74; Moderate</description>
+<Param>PM2.5 - Principal</Param>
+<Conc>15.0</Conc>
+<AQI>74</AQI>
+<Desc>Moderate</Desc>
+<ReadingDateTime>2016-07-18 16:00:00</ReadingDateTime>
+</item>
+<item>
+<title>2016-07-18 17:00:00</title>
+<description>2016-07-18 17:00:00; PM2.5 - Principal; 14.0; 72; Moderate</description>
+<Param>PM2.5 - Principal</Param>
+<Conc>14.0</Conc>
+<AQI>72</AQI>
+<Desc>Moderate</Desc>
+<ReadingDateTime>2016-07-18 17:00:00</ReadingDateTime>
+</item>
+<item>
+<title>2016-07-18 18:00:00</title>
+<description>2016-07-18 18:00:00; PM2.5 - Principal; 25.0; 67; Moderate</description>
+<Param>PM2.5 - Principal</Param>
+<Conc>25.0</Conc>
+<AQI>67</AQI>
+<Desc>Moderate</Desc>
+<ReadingDateTime>2016-07-18 18:00:00</ReadingDateTime>
+</item>
+<item>
+<title>2016-07-18 19:00:00</title>
+<description>2016-07-18 19:00:00; PM2.5 - Principal; 15.0; 62; Moderate</description>
+<Param>PM2.5 - Principal</Param>
+<Conc>15.0</Conc>
+<AQI>62</AQI>
+<Desc>Moderate</Desc>
+<ReadingDateTime>2016-07-18 19:00:00</ReadingDateTime>
+</item>
+<item>
+<title>2016-07-18 20:00:00</title>
+<description>2016-07-18 20:00:00; PM2.5 - Principal; 18.0; 63; Moderate</description>
+<Param>PM2.5 - Principal</Param>
+<Conc>18.0</Conc>
+<AQI>63</AQI>
+<Desc>Moderate</Desc>
+<ReadingDateTime>2016-07-18 20:00:00</ReadingDateTime>
+</item>
+<item>
+<title>2016-07-18 21:00:00</title>
+<description>2016-07-18 21:00:00; PM2.5 - Principal; 15.0; 60; Moderate</description>
+<Param>PM2.5 - Principal</Param>
+<Conc>15.0</Conc>
+<AQI>60</AQI>
+<Desc>Moderate</Desc>
+<ReadingDateTime>2016-07-18 21:00:00</ReadingDateTime>
+</item>
+<item>
+<title>2016-07-18 22:00:00</title>
+<description>2016-07-18 22:00:00; PM2.5 - Principal; 18.0; 62; Moderate</description>
+<Param>PM2.5 - Principal</Param>
+<Conc>18.0</Conc>
+<AQI>62</AQI>
+<Desc>Moderate</Desc>
+<ReadingDateTime>2016-07-18 22:00:00</ReadingDateTime>
+</item>
+</channel>
+</rss>

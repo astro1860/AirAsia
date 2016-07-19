@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+							    <channel>
+							       <title>Latest Air Quality for Chengdu</title>
+							       <link>http://www.stateair.net/web/post/1/2.html</link>
+							       <description>Latest Air Quality for Chengdu</description>
+							       <language> en_US</language>
+							       <ttl>15</ttl>		
+							       
+																		  	
+												   <item>
+														<title>07/19/2016 12:00:00 AM</title>
+														<link>http://www.stateair.net/web/post/1/2.html</link>
+														<description>07-19-2016 00:00; PM2.5; 28.0; 84; Moderate (at 24-hour exposure at this level)</description>
+														<Param>PM2.5</Param>
+														<Conc>28.0</Conc>
+														<AQI>84</AQI>
+														<Desc>Moderate (at 24-hour exposure at this level)</Desc>
+														<ReadingDateTime>07/19/2016 12:00:00 AM</ReadingDateTime>							         
+												   	</item>	
+												   										  	
+												   <item>
+														<title>07/18/2016 11:00:00 PM</title>
+														<link>http://www.stateair.net/web/post/1/2.html</link>
+														<description>07-18-2016 23:00; PM2.5; 27.0; 82; Moderate (at 24-hour exposure at this level)</description>
+														<Param>PM2.5</Param>
+														<Conc>27.0</Conc>
+														<AQI>82</AQI>
+														<Desc>Moderate (at 24-hour exposure at this level)</Desc>
+														<ReadingDateTime>07/18/2016 11:00:00 PM</ReadingDateTime>							         
+												   	</item>	
+												   										  	
+												   <item>
+														<title>07/18/2016 10:00:00 PM</title>
+														<link>http://www.stateair.net/web/post/1/2.html</link>
+														<description>07-18-2016 22:00; PM2.5; 29.0; 87; Moderate (at 24-hour exposure at this level)</description>
+														<Param>PM2.5</Param>
+														<Conc>29.0</Conc>
+														<AQI>87</AQI>
+														<Desc>Moderate (at 24-hour exposure at this level)</Desc>
+														<ReadingDateTime>07/18/2016 10:00:00 PM</ReadingDateTime>							         
+												   	</item>	
+												   										  	
+												   <item>
+														<title>07/18/2016 9:00:00 PM</title>
+														<link>http://www.stateair.net/web/post/1/2.html</link>
+														<description>07-18-2016 21:00; PM2.5; 17.0; 61; Moderate (at 24-hour exposure at this level)</description>
+														<Param>PM2.5</Param>
+														<Conc>17.0</Conc>
+														<AQI>61</AQI>
+														<Desc>Moderate (at 24-hour exposure at this level)</Desc>
+														<ReadingDateTime>07/18/2016 9:00:00 PM</ReadingDateTime>							         
+												   	</item>	
+												   										  	
+												   <item>
+														<title>07/18/2016 8:00:00 PM</title>
+														<link>http://www.stateair.net/web/post/1/2.html</link>
+														<description>07-18-2016 20:00; PM2.5; 42.0; 117; Unhealthy for Sensitive Groups (at 24-hour exposure at this level)</description>
+														<Param>PM2.5</Param>
+														<Conc>42.0</Conc>
+														<AQI>117</AQI>
+														<Desc>Unhealthy for Sensitive Groups (at 24-hour exposure at this level)</Desc>
+														<ReadingDateTime>07/18/2016 8:00:00 PM</ReadingDateTime>							         
+												   	</item>	
+												   										  	
+												   <item>
+														<title>07/18/2016 7:00:00 PM</title>
+														<link>http://www.stateair.net/web/post/1/2.html</link>
+														<description>07-18-2016 19:00; PM2.5; 45.0; 124; Unhealthy for Sensitive Groups (at 24-hour exposure at this level)</description>
+														<Param>PM2.5</Param>
+														<Conc>45.0</Conc>
+														<AQI>124</AQI>
+														<Desc>Unhealthy for Sensitive Groups (at 24-hour exposure at this level)</Desc>
+														<ReadingDateTime>07/18/2016 7:00:00 PM</ReadingDateTime>							         
+												   	</item>	
+												   										  	
+												   <item>
+														<title>07/18/2016 6:00:00 PM</title>
+														<link>http://www.stateair.net/web/post/1/2.html</link>
+														<description>07-18-2016 18:00; PM2.5; 85.0; 166; Unhealthy (at 24-hour exposure at this level)</description>
+														<Param>PM2.5</Param>
+														<Conc>85.0</Conc>
+														<AQI>166</AQI>
+														<Desc>Unhealthy (at 24-hour exposure at this level)</Desc>
+														<ReadingDateTime>07/18/2016 6:00:00 PM</ReadingDateTime>							         
+												   	</item>	
+												   										  	
+												   <item>
+														<title>07/18/2016 5:00:00 PM</title>
+														<link>http://www.stateair.net/web/post/1/2.html</link>
+														<description>07-18-2016 17:00; PM2.5; 85.0; 166; Unhealthy (at 24-hour exposure at this level)</description>
+														<Param>PM2.5</Param>
+														<Conc>85.0</Conc>
+														<AQI>166</AQI>
+														<Desc>Unhealthy (at 24-hour exposure at this level)</Desc>
+														<ReadingDateTime>07/18/2016 5:00:00 PM</ReadingDateTime>							         
+												   	</item>	
+												   										  	
+												   <item>
+														<title>07/18/2016 4:00:00 PM</title>
+														<link>http://www.stateair.net/web/post/1/2.html</link>
+														<description>07-18-2016 16:00; PM2.5; 53.0; 144; Unhealthy for Sensitive Groups (at 24-hour exposure at this level)</description>
+														<Param>PM2.5</Param>
+														<Conc>53.0</Conc>
+														<AQI>144</AQI>
+														<Desc>Unhealthy for Sensitive Groups (at 24-hour exposure at this level)</Desc>
+														<ReadingDateTime>07/18/2016 4:00:00 PM</ReadingDateTime>							         
+												   	</item>	
+												   										  	
+												   <item>
+														<title>07/18/2016 3:00:00 PM</title>
+														<link>http://www.stateair.net/web/post/1/2.html</link>
+														<description>07-18-2016 15:00; PM2.5; 54.0; 147; Unhealthy for Sensitive Groups (at 24-hour exposure at this level)</description>
+														<Param>PM2.5</Param>
+														<Conc>54.0</Conc>
+														<AQI>147</AQI>
+														<Desc>Unhealthy for Sensitive Groups (at 24-hour exposure at this level)</Desc>
+														<ReadingDateTime>07/18/2016 3:00:00 PM</ReadingDateTime>							         
+												   	</item>	
+												   										  	
+												   <item>
+														<title>07/18/2016 2:00:00 PM</title>
+														<link>http://www.stateair.net/web/post/1/2.html</link>
+														<description>07-18-2016 14:00; PM2.5; 43.0; 119; Unhealthy for Sensitive Groups (at 24-hour exposure at this level)</description>
+														<Param>PM2.5</Param>
+														<Conc>43.0</Conc>
+														<AQI>119</AQI>
+														<Desc>Unhealthy for Sensitive Groups (at 24-hour exposure at this level)</Desc>
+														<ReadingDateTime>07/18/2016 2:00:00 PM</ReadingDateTime>							         
+												   	</item>	
+												   										  	
+												   <item>
+														<title>07/18/2016 1:00:00 PM</title>
+														<link>http://www.stateair.net/web/post/1/2.html</link>
+														<description>07-18-2016 13:00; PM2.5; 60.0; 153; Unhealthy (at 24-hour exposure at this level)</description>
+														<Param>PM2.5</Param>
+														<Conc>60.0</Conc>
+														<AQI>153</AQI>
+														<Desc>Unhealthy (at 24-hour exposure at this level)</Desc>
+														<ReadingDateTime>07/18/2016 1:00:00 PM</ReadingDateTime>							         
+												   	</item>	
+												   										  	
+												   <item>
+														<title>07/18/2016 12:00:00 PM</title>
+														<link>http://www.stateair.net/web/post/1/2.html</link>
+														<description>07-18-2016 12:00; PM2.5; 74.0; 161; Unhealthy (at 24-hour exposure at this level)</description>
+														<Param>PM2.5</Param>
+														<Conc>74.0</Conc>
+														<AQI>161</AQI>
+														<Desc>Unhealthy (at 24-hour exposure at this level)</Desc>
+														<ReadingDateTime>07/18/2016 12:00:00 PM</ReadingDateTime>							         
+												   	</item>	
+												   										  	
+												   <item>
+														<title>07/18/2016 11:00:00 AM</title>
+														<link>http://www.stateair.net/web/post/1/2.html</link>
+														<description>07-18-2016 11:00; PM2.5; 66.0; 156; Unhealthy (at 24-hour exposure at this level)</description>
+														<Param>PM2.5</Param>
+														<Conc>66.0</Conc>
+														<AQI>156</AQI>
+														<Desc>Unhealthy (at 24-hour exposure at this level)</Desc>
+														<ReadingDateTime>07/18/2016 11:00:00 AM</ReadingDateTime>							         
+												   	</item>	
+												   										  	
+												   <item>
+														<title>07/18/2016 10:00:00 AM</title>
+														<link>http://www.stateair.net/web/post/1/2.html</link>
+														<description>07-18-2016 10:00; PM2.5; 54.0; 147; Unhealthy for Sensitive Groups (at 24-hour exposure at this level)</description>
+														<Param>PM2.5</Param>
+														<Conc>54.0</Conc>
+														<AQI>147</AQI>
+														<Desc>Unhealthy for Sensitive Groups (at 24-hour exposure at this level)</Desc>
+														<ReadingDateTime>07/18/2016 10:00:00 AM</ReadingDateTime>							         
+												   	</item>	
+												   										  	
+												   <item>
+														<title>07/18/2016 9:00:00 AM</title>
+														<link>http://www.stateair.net/web/post/1/2.html</link>
+														<description>07-18-2016 09:00; PM2.5; 48.0; 132; Unhealthy for Sensitive Groups (at 24-hour exposure at this level)</description>
+														<Param>PM2.5</Param>
+														<Conc>48.0</Conc>
+														<AQI>132</AQI>
+														<Desc>Unhealthy for Sensitive Groups (at 24-hour exposure at this level)</Desc>
+														<ReadingDateTime>07/18/2016 9:00:00 AM</ReadingDateTime>							         
+												   	</item>	
+												   										  	
+												   <item>
+														<title>07/18/2016 8:00:00 AM</title>
+														<link>http://www.stateair.net/web/post/1/2.html</link>
+														<description>07-18-2016 08:00; PM2.5; 44.0; 122; Unhealthy for Sensitive Groups (at 24-hour exposure at this level)</description>
+														<Param>PM2.5</Param>
+														<Conc>44.0</Conc>
+														<AQI>122</AQI>
+														<Desc>Unhealthy for Sensitive Groups (at 24-hour exposure at this level)</Desc>
+														<ReadingDateTime>07/18/2016 8:00:00 AM</ReadingDateTime>							         
+												   	</item>	
+												   										  	
+												   <item>
+														<title>07/18/2016 7:00:00 AM</title>
+														<link>http://www.stateair.net/web/post/1/2.html</link>
+														<description>07-18-2016 07:00; PM2.5; 40.0; 112; Unhealthy for Sensitive Groups (at 24-hour exposure at this level)</description>
+														<Param>PM2.5</Param>
+														<Conc>40.0</Conc>
+														<AQI>112</AQI>
+														<Desc>Unhealthy for Sensitive Groups (at 24-hour exposure at this level)</Desc>
+														<ReadingDateTime>07/18/2016 7:00:00 AM</ReadingDateTime>							         
+												   	</item>	
+												   										  	
+												   <item>
+														<title>07/18/2016 6:00:00 AM</title>
+														<link>http://www.stateair.net/web/post/1/2.html</link>
+														<description>07-18-2016 06:00; PM2.5; 35.0; 99; Moderate (at 24-hour exposure at this level)</description>
+														<Param>PM2.5</Param>
+														<Conc>35.0</Conc>
+														<AQI>99</AQI>
+														<Desc>Moderate (at 24-hour exposure at this level)</Desc>
+														<ReadingDateTime>07/18/2016 6:00:00 AM</ReadingDateTime>							         
+												   	</item>	
+												   										  	
+												   <item>
+														<title>07/18/2016 5:00:00 AM</title>
+														<link>http://www.stateair.net/web/post/1/2.html</link>
+														<description>07-18-2016 05:00; PM2.5; 48.0; 132; Unhealthy for Sensitive Groups (at 24-hour exposure at this level)</description>
+														<Param>PM2.5</Param>
+														<Conc>48.0</Conc>
+														<AQI>132</AQI>
+														<Desc>Unhealthy for Sensitive Groups (at 24-hour exposure at this level)</Desc>
+														<ReadingDateTime>07/18/2016 5:00:00 AM</ReadingDateTime>							         
+												   	</item>	
+												   										  	
+												   <item>
+														<title>07/18/2016 4:00:00 AM</title>
+														<link>http://www.stateair.net/web/post/1/2.html</link>
+														<description>07-18-2016 04:00; PM2.5; 70.0; 158; Unhealthy (at 24-hour exposure at this level)</description>
+														<Param>PM2.5</Param>
+														<Conc>70.0</Conc>
+														<AQI>158</AQI>
+														<Desc>Unhealthy (at 24-hour exposure at this level)</Desc>
+														<ReadingDateTime>07/18/2016 4:00:00 AM</ReadingDateTime>							         
+												   	</item>	
+												   										  	
+												   <item>
+														<title>07/18/2016 3:00:00 AM</title>
+														<link>http://www.stateair.net/web/post/1/2.html</link>
+														<description>07-18-2016 03:00; PM2.5; 79.0; 163; Unhealthy (at 24-hour exposure at this level)</description>
+														<Param>PM2.5</Param>
+														<Conc>79.0</Conc>
+														<AQI>163</AQI>
+														<Desc>Unhealthy (at 24-hour exposure at this level)</Desc>
+														<ReadingDateTime>07/18/2016 3:00:00 AM</ReadingDateTime>							         
+												   	</item>	
+												   										  	
+												   <item>
+														<title>07/18/2016 2:00:00 AM</title>
+														<link>http://www.stateair.net/web/post/1/2.html</link>
+														<description>07-18-2016 02:00; PM2.5; 68.0; 157; Unhealthy (at 24-hour exposure at this level)</description>
+														<Param>PM2.5</Param>
+														<Conc>68.0</Conc>
+														<AQI>157</AQI>
+														<Desc>Unhealthy (at 24-hour exposure at this level)</Desc>
+														<ReadingDateTime>07/18/2016 2:00:00 AM</ReadingDateTime>							         
+												   	</item>	
+												   										  	
+												   <item>
+														<title>07/18/2016 1:00:00 AM</title>
+														<link>http://www.stateair.net/web/post/1/2.html</link>
+														<description>07-18-2016 01:00; PM2.5; 40.0; 112; Unhealthy for Sensitive Groups (at 24-hour exposure at this level)</description>
+														<Param>PM2.5</Param>
+														<Conc>40.0</Conc>
+														<AQI>112</AQI>
+														<Desc>Unhealthy for Sensitive Groups (at 24-hour exposure at this level)</Desc>
+														<ReadingDateTime>07/18/2016 1:00:00 AM</ReadingDateTime>							         
+												   	</item>	
+												   			    		    
+								</channel>
+							</rss>
